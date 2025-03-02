@@ -58,7 +58,6 @@ class ContactController {
 
   async update(request, response) {
     const { id } = request.params;
-
     const {
       name, email, phone, category_id,
     } = request.body;
