@@ -9,14 +9,14 @@
     "dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "express": "4.17.2",
-    "express-async-errors": "^3.1.1",
-    "pg": "8.7.3"
+    "express": "4.21.2",
+    "express-async-errors": "3.1.1",
+    "pg": "8.14.1"
   },
   "devDependencies": {
-    "eslint": "8.8.0",
+    "eslint": "9.23.0",
     "eslint-config-airbnb-base": "15.0.0",
-    "eslint-plugin-import": "2.25.4",
-    "nodemon": "2.0.15"
+    "eslint-plugin-import": "2.31.0",
+    "nodemon": "3.1.9"
   }
 }
